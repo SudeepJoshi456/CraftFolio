@@ -58,25 +58,25 @@ export const PROJECTS = [
     technologies: ["Svelte", "TailwindCSS", "GitHub", "Gemini API", "TypeScript"],
   },
   {
-    title: "Task Management App",
+    title: "ProfAura",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "ProfAura allows students to share their experiences and rate their instructors, but with enhanced features powered by OpenAI",
+    technologies: ["Next.js", "TailwindCSS", "OpenAI", "Firebase"],
   },
   {
-    title: "Portfolio Website",
+    title: "CraftFolio",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "An importable and fully customizable portfolio website template designed for professionals and creatives who want to showcase their work in a sleek and modern way.",
+    technologies: ["React", "TailwindCSS", "Framer Motion", "JavaScript"],
   },
   {
     title: "DollarDiary.AI",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "An application for budget tracking with a personal AI-powered chat-based financial advisor.",
+    technologies: ["React", "Gemini", "Django", "Firebase"],
   },
 ];
 
